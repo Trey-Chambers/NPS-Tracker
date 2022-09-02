@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John Muir",
+      "username": "JohnMuir",
+      "password": "Qwerty2"
+    },
+    {
+      "id": 2,
+      "name": "Teddy Roosevelt",
+      "username": "TeddyR",
+      "password": "passwordOne!"
+    },
+    {
+      "id": 3,
+      "name": "Trey Chambers",
+      "username": "Trey-Chambers",
+      "password": "ytrewq%$#@!"
+    }
+  ],
+  "tripLogs": [
+    {
+      "id": 1,
+      "parkId": 1,
+      "journalId": 1
+    }
+  ],
+  "journalEntries": [
+    {
+      "id": 1,
+      "content": "I love this place!",
+      "userId": 1,
+      "timestamp": 1660759456298
+    },
+    {
+      "userId": 1,
+      "content": "hiking is fun!",
+      "timestamp": 1662046823020,
+      "id": 2
+    },
+    {
+      "userId": 3,
+      "content": "Great fishing streams",
+      "timestamp": 1662047245982,
+      "id": 3
+    }
+  ]
+}

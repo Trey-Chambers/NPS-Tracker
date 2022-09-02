@@ -1,0 +1,17 @@
+.park-each {
+    border: .05em solid black;
+    margin: 1em;
+    background-color: antiquewhite;
+}
+
+.park-eachs{
+    border-style:solid;
+    border-top-left-radius:14px;
+    border-top-right-radius:14px;
+    border-bottom-left-radius:14px;
+    border-bottom-right-radius:14px;
+    width:25%;
+    height:345px;
+    margin: 1em;
+    
+   }
